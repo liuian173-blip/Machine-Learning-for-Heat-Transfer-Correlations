@@ -1,0 +1,19 @@
+# 数据文件
+Data/Data_generation/ML_Dataset_heat_chaos.csv
+Data/Data_cleaning/ML_Dataset_cleaned.csv
+
+# 训练好的模型文件
+Models/Model_Parameters/random_forest.pkl
+Models/Model_Parameters/best_hyperparams.json
+
+# 生成的图片
+Figure_output/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 编辑器文件
+.vscode/
+.idea/
